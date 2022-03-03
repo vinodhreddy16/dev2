@@ -1,0 +1,1 @@
+<license code="5B4F795F1FADD4FD" companyName="vkr lim" expire="Feb-11-2020" generatedForRelease="9.5.0.0" generationTime="Jan-12-2020 07:21" generatorRelease="10.0.0-PRE3 (build date: 2019/12/10 13:42)" generatorUser="Trial Installation" hostid="WIN-B0:FC:36:66:5F:23">    <product type="ALM">        <user kind="named" licenses="25" type="user"/>    </product></license>
